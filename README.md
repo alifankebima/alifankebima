@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm breadsticks64, you can call me bread, breadsticks, or alif
-- 🔭 I’m currently working on building up portfolio, and making ✨ _cool websites_ ✨
+- 🔭 I’m currently working on building up portfolio, and making ✨ _cool websites (soon™️)_ ✨
 - 🌱 I’m currently learning javascript frontend and backend libraries
 - 🤔 I’m looking for help with code readibility in my repositories
 - 💬 Ask me about current events on computers and technology advancements
