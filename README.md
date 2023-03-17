@@ -4,7 +4,7 @@ I'm breadsticks64, you can call me bread, breadsticks, or alif
 - 🌱 I’m currently learning javascript frontend and backend libraries
 - 🤔 I’m looking for help with code readibility in my repositories
 - 💬 Ask me about current events on computers and technology advancements
-- 📫 How to reach me: @breadsticks64 on twitter or instagram
+- 📫 How to reach me: @breadsticks64 on instagram or by email
 
 <!--
 **breadsticks64/breadsticks64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
