@@ -5,7 +5,7 @@ I'm Alif Anke Bima Putra, you can call me Alif
 - 🤔 I’m looking for help with code readibility in my repositories
 - 💬 Ask me about current events on computers and technology advancements
 
-#### Contact 📫
+### Contact 📫
 - LinkedIn : [Alif Anke Bima Putra]
 - E-Mail : [alif.anke.bima@gmail.com]
 
